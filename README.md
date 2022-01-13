@@ -1,6 +1,6 @@
 ### Ava Silver
 
-My name is Ava Silver ([she/they](https://pronoun.is/she?or=they)), I'm an undergraduate student at Northeastern University studying Computer Science. I have experience with Rust, Python, Java, JavaScript/TypeScript, C, Kotlin, and I'm always looking for new projectsto work on/languages to learn 😄.
+My name is Ava Silver ([she/they](https://pronoun.is/she?or=they)), I'm an undergraduate student at Northeastern University studying Computer Science. I have experience with Rust, Python, Java, JavaScript/TypeScript, C, Kotlin, and I'm always looking for new projects to work on/languages to learn 😄.
 
 My current favorite language is [Rust](https://www.rust-lang.org/).
 
