@@ -1,6 +1,6 @@
 ### Ava Silver
 
-My name is Ava Silver (she/her), and I'm a recent graduate from Northeastern University and Software Engineer at [Datadog](https://www.datadoghq.com/). I have experience with Python, Rust, C#, JavaScript/TypeScript, Java, C, Kotlin, and I'm always looking for new projects to work on/languages to learn! :3
+My name is Ava Silver, and I'm a recent graduate from Northeastern University and Software Engineer at [Datadog](https://www.datadoghq.com/). I have experience with Python, Rust, TypeScript, C#, Kotlin, Dart, Java, C, and I'm always looking for new projects to work on/languages to learn!
 
 Links:
 
